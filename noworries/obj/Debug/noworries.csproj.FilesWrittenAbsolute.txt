@@ -1,0 +1,17 @@
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/obj/Debug/noworries.TodoList.xaml.g.cs
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/obj/Debug/noworries.TodoList.xaml
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/bin/Debug/noworries.dll.mdb
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/bin/Debug/noworries.dll
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/obj/Debug/noworries.dll
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/obj/Debug/noworries.dll.mdb
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/bin/Debug/Newtonsoft.Json.dll
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/bin/Debug/System.Net.Http.dll
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/bin/Debug/System.Net.Http.Extensions.dll
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/bin/Debug/System.Net.Http.Primitives.dll
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/bin/Debug/Xamarin.Forms.Core.dll
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/obj/Debug/noworries.RestaurantList.xaml.g.cs
+/Users/eunji/Downloads/noworries_Xamarin_Forms/noworries/obj/Debug/noworries.RestaurantList.xaml
